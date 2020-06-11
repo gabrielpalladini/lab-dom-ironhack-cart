@@ -13,6 +13,7 @@ document.querySelector(".btn.btn-success").addEventListener("click", () => {
   }
 })
 }
+// this is a banana comment
 
 function calculateAll() {
   
